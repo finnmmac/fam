@@ -1,0 +1,16 @@
+Inside the gallery folder
+
+Hold Shift
+
+Right-click → Open PowerShell here
+
+Type:
+
+python server.py
+
+
+Press Enter.
+
+You should see:
+
+Custom gallery server running at http://localhost:8000
